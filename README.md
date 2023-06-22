@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hungtlai
 - 👀 I’m interested in learning Business Analytics
 - 🌱 I’m currently learning CS50B, and Python
-- 📫 How to reach me laitruonghung94@gmail.com
 
 <!---
 hungtlai/hungtlai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
